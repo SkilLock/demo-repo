@@ -1,3 +1,3 @@
 #Details
 
-less go
+LESS GO
